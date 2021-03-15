@@ -1,0 +1,5 @@
+:root {
+  --horizontal-space: 15px;
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+  --font-grey: rgba(0, 0, 0, 0.4);
+}
